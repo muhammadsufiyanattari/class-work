@@ -1,0 +1,64 @@
+.Logoimg img{
+    width: 250px;
+    margin-left: 20px;
+}
+.navbar-main{
+    background-color: white !important;
+}
+ 
+.current>span{
+    font-size: 15px;
+    color: rgb(227, 163, 13);
+}
+
+.search-food{margin-right: 30px !important;
+    
+    font-size: 20px;
+    padding: 10px;
+    /* border: 1px solid gold; */
+    font-weight: bold;
+}
+.search-food>img{
+    padding: 0pc 10px;
+}
+.btnspan{font-size: 20px;
+color: gold;
+padding: 10px;
+font-weight: 900;
+}
+.btnspan>img{
+    padding: 0px 10px;
+}
+.home-main{
+    background-image: url(img/Group\ 1\ 1.png);
+}
+.home-text>h1{
+    color: white;
+    font-size: 40px;
+}
+.home-text>p{
+    font-size: 12px;
+}
+.form{
+    background-color: white;
+    border-radius: 20px;
+}
+.tab-img >img{margin-top: 10px;
+    width: 100px;
+}
+.tab-img{
+    margin-left: 10px;
+}
+.address{
+    margin: 50px 10px 0px 10px;
+    
+}
+.address>input{
+   font-size: 10px;
+    width: 180px;
+    border-radius: 20px;
+    border-color: white !important;
+}
+.address>img{
+    width: 100px;
+}
